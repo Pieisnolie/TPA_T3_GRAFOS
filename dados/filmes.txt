@@ -1,7 +1,13 @@
 # Filme;similaridades com os filmes anteriores, na ordem em que aparecem
 Interestelar
 A Origem;0.90
-Titanic;0.15;0.25
-Perdido em Marte;0.88;0.55;0.20
-Matrix;0.72;0.85;0.12;0.45
-Gravidade;0.81;0.48;0.19;0.80;0.38
+Titanic;0.15;0.20
+Perdido em Marte;0.88;0.55;0.12
+Matrix;0.72;0.85;0.10;0.45
+Gravidade;0.81;0.48;0.18;0.80;0.38
+Blade Runner 2049;0.75;0.70;0.10;0.52;0.80;0.40
+Batman Begins;0.40;0.72;0.10;0.20;0.55;0.15;0.45
+Batman - O Cavaleiro das Trevas;0.42;0.78;0.10;0.18;0.58;0.12;0.48;0.95
+Coringa;0.18;0.38;0.25;0.10;0.40;0.08;0.35;0.75;0.85
+Diario de uma Paixao;0.12;0.15;0.90;0.10;0.08;0.15;0.05;0.10;0.10;0.22
+Vingadores Ultimato;0.55;0.60;0.08;0.42;0.75;0.20;0.52;0.82;0.80;0.58;0.08
