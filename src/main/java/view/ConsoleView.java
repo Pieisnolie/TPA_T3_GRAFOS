@@ -36,9 +36,8 @@ public class ConsoleView {
         System.out.println("2 - Avaliar filme assistido");
         System.out.println("3 - Recomendar filme");
         System.out.println("4 - Cadastrar filme");
-        System.out.println("5 - Definir similaridade entre dois filmes");
+        System.out.println("5 - Alterar similaridade entre dois filmes");
         System.out.println("6 - Caminhamento em largura (BFS)");
-        System.out.println("7 - Carregar outro arquivo");
         System.out.println("0 - Sair");
     }
 

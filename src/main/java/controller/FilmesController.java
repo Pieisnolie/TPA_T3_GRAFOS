@@ -48,9 +48,6 @@ public class FilmesController {
                     case 6:
                         percorrer();
                         break;
-                    case 7:
-                        carregar(Path.of(view.ler("Nome do arquivo: ")));
-                        break;
                     case 0:
                         view.mostrar("Programa encerrado.");
                         break;
